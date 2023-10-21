@@ -1,2 +1,1 @@
-# PrepCourse-HENRY2
-reposito con readme
+Este es un proyecto de como crear un repositorio y clonarlo desde gitgub a mi computadora
